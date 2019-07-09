@@ -1,0 +1,6 @@
+.project
+.pydevproject
+.settings/
+.idea
+
+/node_modules/
